@@ -3,6 +3,8 @@ from qiskit import QuantumCircuit, transpile
 from qiskit_aer import AerSimulator  # Try this, fallback if DLL fails
 from qiskit.visualization import plot_histogram
 import matplotlib.pyplot as plt
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 circuit = QuantumCircuit(2, 2)
 circuit.h(0)

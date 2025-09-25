@@ -321,3 +321,61 @@
 2025-09-23 13:42:34 - Skipped test9.txt - already exists at C:\Users\sheil\gig_delivery\Docs
 2025-09-23 13:42:35 - Created zip: C:\Users\sheil\gig_delivery\organized_files_20250923_134234.zip
 2025-09-23 13:42:35 - File organization complete.
+2025-09-23 14:17:49 - Skipped coding_log.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Moved file_organizer_output.txt to C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Moved fiverr_bio.txt to C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Moved fiverr_gig.txt to C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped gigs.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped image11.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:17:49 - Skipped image15.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:17:49 - Skipped image4.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:17:49 - Skipped image7.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:17:49 - Skipped image8.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:17:49 - Skipped image9.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:17:49 - Skipped quantum_circuit.py - already exists at C:\Users\sheil\gig_delivery\Code
+2025-09-23 14:17:49 - Moved quantum_output.txt to C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped README.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped sample11.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:17:49 - Skipped sample15.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:17:49 - Skipped sample4.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:17:49 - Skipped sample7.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:17:49 - Skipped sample8.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:17:49 - Skipped sample9.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:17:49 - Skipped scrape_gigs.py - already exists at C:\Users\sheil\gig_delivery\Code
+2025-09-23 14:17:49 - Skipped test11.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped test15.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped test4.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped test7.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped test8.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:49 - Skipped test9.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:17:50 - Created zip: C:\Users\sheil\gig_delivery\organized_files_20250923_141749.zip
+2025-09-23 14:17:50 - File organization complete.
+2025-09-23 14:35:04 - Skipped coding_log.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped gigs.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped image11.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Skipped image15.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Moved image16.jpg to C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Skipped image4.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Skipped image7.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Skipped image8.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Skipped image9.jpg - already exists at C:\Users\sheil\gig_delivery\Images
+2025-09-23 14:35:04 - Skipped quantum_circuit.py - already exists at C:\Users\sheil\gig_delivery\Code
+2025-09-23 14:35:04 - Skipped quantum_output.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped README.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped sample11.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Skipped sample15.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Moved sample16.pdf to C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Skipped sample4.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Skipped sample7.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Skipped sample8.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Skipped sample9.pdf - already exists at C:\Users\sheil\gig_delivery\PDFs
+2025-09-23 14:35:04 - Skipped scrape_gigs.py - already exists at C:\Users\sheil\gig_delivery\Code
+2025-09-23 14:35:04 - Skipped test11.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped test15.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Moved test16.txt to C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped test4.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped test7.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped test8.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:04 - Skipped test9.txt - already exists at C:\Users\sheil\gig_delivery\Docs
+2025-09-23 14:35:06 - Created zip: C:\Users\sheil\gig_delivery\organized_files_20250923_143504.zip
+2025-09-23 14:35:06 - File organization complete.
