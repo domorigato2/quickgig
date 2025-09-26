@@ -1,0 +1,6 @@
+Moved caterpillar_pitch.txt to Docs - 09/25/2025 22:20:54
+Moved coding_log.txt to Docs - 09/25/2025 22:20:55
+Moved FileSorter.ps1 to Scripts - 09/25/2025 22:20:55
+Moved GigBooster.ps1 to Scripts - 09/25/2025 22:20:55
+Moved proposal_FiverrClient.txt to Docs - 09/25/2025 22:20:55
+Moved test2.nc to CNC - 09/25/2025 22:20:55
