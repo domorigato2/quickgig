@@ -4,3 +4,6 @@ Organized/file_sort_log_*.txt
 Organized/*_log_*.txt
 *.nc
 !Organized/CNC/batch_gcode_20250927_233313_1.nc
+!Organized/Docs/*.txt
+!Organized/gcode_log_*.txt
+!gig_tracker.txt

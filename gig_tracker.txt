@@ -1,0 +1,2 @@
+Self, LeakTracker, DripRate: 0 if fixed drops/sec, Date: 2025-10-01 09:05:57, Status: Fixed
+Self, Exercise, Minutes: 5, Date: 2025-10-01 09:06:22, Status: Active
